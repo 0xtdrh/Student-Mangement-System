@@ -1,0 +1,28 @@
+Configration:
+        Database Name : students
+        Database User : root
+        Database Pass : ''
+        Database Host : localhost
+ 
+After Make This Configration Upload Database File in database Folder
+
+Premmision In The System :
+    1-Admin => Full Premmision
+    2-Instructor => Anything About Students
+    3-Team Leader => Full Premmision Except Edit User
+    4-Secrtary => Anything About Students
+
+If You Forget Password And Want To Reset Password Make:
+        Username : reset
+        Password : reset
+
+
+
+Is There Any Bugs Or Vulnerabilities Please Contact Me
+
+Contact Me:
+        Facebook : https://www.facebook.com/profile.php?id=100091130092100
+        Linked In : https://www.linkedin.com/in/kerolos-refaat-10502a270/
+        Blog : https://0xtdrh.gitbook.io/kerolos/
+
+Enjoy

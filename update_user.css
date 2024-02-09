@@ -1,0 +1,150 @@
+/* 
+        Contact Me:
+            Facebook : https://www.facebook.com/profile.php?id=100091130092100
+            Linked In : https://www.linkedin.com/in/kerolos-refaat-10502a270/
+            Blog : https://0xtdrh.gitbook.io/kerolos/
+*/
+
+.div{
+    font-family:'Tajawal', sans-serif;
+    font-weight: bold;
+    background-color: gray;
+    background-color: darkslategray;
+    
+    
+}
+body{
+    font-family:'Tajawal', sans-serif;
+    background-color: darkslategray;
+}
+h1{
+    color:red;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    text-decoration:underline;
+}
+label{
+    font-weight: bold;  
+    font-size:20px ;
+    font-family:'Tajawal', sans-serif;
+}
+select{
+    width: 130px;
+    color: white;
+    font-weight: bold;
+    background-color:gray;
+    float: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 30px;
+    font-size: 15px;
+}
+.first{
+    float: left;
+}
+.second{
+    display: inline-block;
+    position: absolute;
+    left: 42%;           
+}
+.third{
+    float: right;
+    padding-right: 30px;
+}
+input{
+    border: none;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.btns{
+    position: absolute;
+    top: 80%;
+    left: 40%;
+}
+button{
+    width: 200px;
+    color: black;
+    background-color:white;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid gray;
+    cursor: pointer;
+}
+.btns .save{
+    
+    padding-right: 50px;
+    background-color: silver;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid gray;
+    cursor: pointer;
+}
+.btns .add{
+    
+    padding-right: 50px;
+    background-color: silver;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid gray;
+    cursor: pointer;
+}
+.btns .clear{
+    
+    padding-right: 50px;
+    background-color: silver;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid gray;
+    cursor: pointer;
+}
+.btns .delete{
+    
+    padding-right: 50px;
+    background-color: silver;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid gray;
+    cursor: pointer;
+}
+
+table{
+    position: absolute;
+    top: 95%;
+    border:1px solid black;
+    width: 100%;
+    font-size: 20px;
+}
+table th{
+    background-color:azure;
+    color: black;
+    padding: 10px;
+}
+tr:hover { background: #ddd; }
+td { border: 1px solid #000; border-collapse: collapse; }
+.select{
+    position:absolute;
+    left: 50%;
+}
+.header{
+    color:white;
+}
+.homeb{
+    position:absolute;
+    top:0.5%;
+    border:none;
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+}
+.homei{
+    /* border:none; */
+    width: 50px;
+    height: 50px;
+}
